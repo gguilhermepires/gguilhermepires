@@ -19,12 +19,10 @@
     <img align="center" alt="gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
      <img align="center" alt="gui-java" height="30" width="40" src="http://s2.glbimg.com/vME2Bq4OSpm6f6IE16BhcVLR98U=/695x0/s.glbimg.com/po/tt2/f/original/2014/11/14/java-logo.jpg">
-  
-  
   </div>
     </div>
   
-
+<br>
 - 💞️ I’m looking to collaborate with other programmers through my tutorials...
 - 📫 How to reach me ? Send a e-mail to gguilhermepires@gmail.com
 
